@@ -1,4 +1,4 @@
-# TF_azurerm_network_security_rule_module
+# Azurerm_network_security_rule
 
 Deploy Azure Network Security Rule with a dedicated Terraform module.
 
